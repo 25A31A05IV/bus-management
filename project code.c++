@@ -10,7 +10,7 @@ struct Bus {
     Bus* next;
 };
 
-Bus* head = NULL;
+Bus* head = NULL,temp=NULL;
 
 // Insert at end
 void insertBus(int reg,int busno, string name, string loc, string route) {
@@ -30,11 +30,11 @@ void insertBus(int reg,int busno, string name, string loc, string route) {
 
 // Auto add 5 buses
 void loadBuses() {
-    insertBus(, 1,, "kakinada", "ROUTE A");
-    insertBus(,  2,, "kakinada", "Route-B");
-    insertBus(, 3,, "pitapuram", "Route-C");
-    insertBus(, 4,, "samarlakota", "Route-D");
-    insertBus(, 5,, "rjy", "Route-E");
+    insertBus(1, 1,"x", "kakinada", "ROUTE A");
+    insertBus(1,  2,"x", "kakinada", "Route-B");
+    insertBus(1, 3,"x", "pitapuram", "Route-C");
+    insertBus(1, 4,"x", "samarlakota", "Route-D");
+    insertBus(1, 5,"x", "rjy", "Route-E");
 }
 
 // Add manually
