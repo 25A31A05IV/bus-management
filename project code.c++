@@ -89,7 +89,7 @@ void display() {
         case 3:cout<<"1:simhadripuram\n2: municipalhighscool\n3:pitapuram temple\n";break;
         case 4:cout<<"1:jaggampeta\n2:ganapathinagar\n3:peddapuram";break;
         case 5:cout<<"1:rtc colony\n2:lalachruvu\n3:divan chreuvu";break;
-            
+    }
 }
 
 // Search
