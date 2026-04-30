@@ -54,4 +54,4 @@ d.Exit
 >Call corresponding function 
 10.Stop
 
-## floechart
+## flowchart
