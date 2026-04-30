@@ -55,3 +55,5 @@ d.Exit
 10.Stop
 
 ## flowchart
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/7c3fe9c9-5385-45c3-8d19-8185ff950fea" />
+
