@@ -55,5 +55,6 @@ Call corresponding function
 10.Stop   
 
 ## flowchart
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/7c3fe9c9-5385-45c3-8d19-8185ff950fea" />
+<img width="432" height="783" alt="1000022788" src="https://github.com/user-attachments/assets/1cfe6faf-2d2e-4bd9-8e85-397d2bda51a3" />
+
 
